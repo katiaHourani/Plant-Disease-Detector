@@ -6,4 +6,7 @@ This project contains many sections, Here's an overview of each section:
 * This robot also collect data as humidity, light instensity and temperature, in order to help the farmer specify the cause behind the diseases
 * The detection of the disease and its classification is done using a CNN model calle *"Retinanet"* 
 # The Datasets Used
-will be uploaded shortly
+This repository contains a curated dataset of high-resolution images of healthy and diseases plant leaves, collected and annotated manually. Whether you're exploring the world of machine learning, or developing your own models for leaf classification, or conducting research in plant science, this dataset is a valuable resource. Dive into the rich and varied world of plant leaves, complete with detailed annotations, and unlock new possibilities for image analysis, pattern recognition, and more.
+
+
+
