@@ -1,0 +1,26 @@
+<annotation>
+  <folder>forkatia</folder>
+  <filename>batch(116)</filename>
+  <path>C:\Users\User\Desktop\forkatia\batch(116).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>5632</width>
+    <height>4224</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>nothealthy</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2570</xmin>
+      <ymin>307</ymin>
+      <xmax>5632</xmax>
+      <ymax>4067</ymax>
+    </bndbox>
+  </object>
+</annotation>

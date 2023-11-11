@@ -1,0 +1,26 @@
+<annotation>
+  <folder>mine</folder>
+  <filename>batch(264)</filename>
+  <path>C:\Users\user\Desktop\mine\batch(264).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>4224</width>
+    <height>5632</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>nothealthy</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>583</xmin>
+      <ymin>1253</ymin>
+      <xmax>2777</xmax>
+      <ymax>3372</ymax>
+    </bndbox>
+  </object>
+</annotation>
